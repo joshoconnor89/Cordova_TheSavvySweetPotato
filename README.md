@@ -1,7 +1,7 @@
 # TheSavvySweetPotato
 The Savvy Sweet Potato iOS and Android App
 
-The Savvy Sweet Potato is an iOS and Android app written by Joshua O'Connor in August 2015. It is written in HTML, CSS, and JS using Cordova. 
+The Savvy Sweet Potato is an iOS and Android app written by Joshua O'Connor. It is written in HTML, CSS, and JS using Cordova. 
 
 **TERMS OF USE: The Savvy Sweet Potato is only intended for READ ONLY. Any reuse of this project must have approval of the developer.
 
